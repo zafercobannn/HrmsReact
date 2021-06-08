@@ -7,10 +7,10 @@ import JobSeekerList from '../pages/User/JobSeeker/JobseekerList'
 export default function Section() {
     return (
         <div>
-            <JobSeekerList/> 
+            <JobSeekerList/>  
             <EmployerList/>
             <JobPositionList/>
-            <JobAdvertList/>
+            <JobAdvertList/> 
         </div>
     )
 }
