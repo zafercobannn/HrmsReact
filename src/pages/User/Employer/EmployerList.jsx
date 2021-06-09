@@ -15,7 +15,7 @@ export default function EmployerList() {
   return (
     <div>
       <Header as="h2">
-        <Icon name="compass outline" />
+        <Icon name="clipboard" />
         <Header.Content>Employer List</Header.Content>
       </Header>
       <Table celled>

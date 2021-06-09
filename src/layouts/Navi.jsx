@@ -26,7 +26,7 @@ export default function Navi() {
 
               <Menu.Item>
                 <Button.Group>
-                  <Button primary>Sign Up</Button>
+                  <Button color="google plus">Sign Up</Button>
                   <Button.Or />
                   <Button positive>Sign In</Button>
                 </Button.Group>

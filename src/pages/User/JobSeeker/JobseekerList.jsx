@@ -13,7 +13,7 @@ export default function JobseekerList() {
   return (
     <div>
       <Header as="h2">
-        <Icon name="compass outline" />
+        <Icon name="clipboard" />
         <Header.Content>Jobseeker List</Header.Content>
       </Header>
       <Table celled>
@@ -41,7 +41,7 @@ export default function JobseekerList() {
             <Table.HeaderCell colSpan="5">
               <Menu floated="right" pagination>
                 <Menu.Item as="a" icon>
-                  <Icon name="chevron left" />
+                  <Icon name="list alternate" />
                 </Menu.Item>
                 <Menu.Item as="a">1</Menu.Item>
                 <Menu.Item as="a">2</Menu.Item>

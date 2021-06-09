@@ -14,7 +14,7 @@ export default function JobPositionList() {
   return (
     <div>
       <Header as="h2">
-        <Icon name="compass outline" />
+        <Icon name="clipboard" />
         <Header.Content>Job Position List</Header.Content>
       </Header>
       <Table celled>

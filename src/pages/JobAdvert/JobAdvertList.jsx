@@ -16,7 +16,7 @@ export default function JobAdvertList() {
     return (
         <div>
       <Header as="h2">
-        <Icon name="compass outline" />
+        <Icon name="clipboard" />
         <Header.Content>Job Advert List</Header.Content>
       </Header>
       <Table celled>
